@@ -1,0 +1,10 @@
+BoldAsFont=no
+Font=Consolas
+FontHeight=11
+CursorType=block
+BoldAsColour=yes
+FontSmoothing=default
+FontWeight=400
+FontIsBold=no
+Term=xterm
+ThemeFile=monokai

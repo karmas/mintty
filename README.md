@@ -1,6 +1,6 @@
 configurations for mintty
 
-Mintty looks for files in `~/.mintty/`. Below is possible installtion.
 ```
+cp minttyrc ~/.minttyrc
 cp -r themes ~/.mintty/
 ```
